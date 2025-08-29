@@ -1,0 +1,15 @@
+pandas
+numpy
+setuptools
+psycopg2-binary
+scikit-learn
+imbalanced-learn
+redis
+flask
+alibi-detect
+prometheus_client
+apache-airflow-providers-google>=10.0.0
+sqlalchemy
+requests
+google-cloud-storage
+apache-airflow
