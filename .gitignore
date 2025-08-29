@@ -16,3 +16,4 @@ plugins/
 MLOPS_PROJECT_3.egg-info/
 include/
 .astro/
+*.egg-info/
